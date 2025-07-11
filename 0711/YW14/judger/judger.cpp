@@ -75,6 +75,7 @@ void solve_luangao() {
     //     flg = flg % 2 + 1;
     // }
     // cout << mns << " " << ans << "\n";
+    // 原来的神秘人类智慧 
 }
 void solve_dp() {
     memset(f, 0x3f, sizeof f);
